@@ -1,64 +1,103 @@
-To run the app locally
+# FriendSpace 🚀
 
-   1. Clone the repository:
-      git clone https://github.com/Zeltops/FriendSpace
+### Table of Contents
 
-   3. Navigate to the project directory:
+-   ⚙️ Tech Stack: Python, React, SQLite, SQLAlchemy, Flask, Chakra UI
+-   ✅ CRUD Functionality: Seamlessly create, read, update, and delete friends from your store.
+-   🎨 Stylish UI Components: Enhanced user experience with stylish UI components provided by Chakra UI.
+-   🌓 Light and Dark Mode: Enjoy a personalized user interface experience with light and dark mode options.
+-   📱 Responsive Design: The app is designed to adapt to various screen sizes, ensuring a consistent experience across devices.
 
-cd FriendSpace
+### Run the App Locally
 
-   3. Navigate to the backend directory:
+1. Clone the repository:
 
+```bash
+git clone https://github.com/burakorkmez/react-python-tutorial
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd react-python-tutorial
+```
+
+3. Navigate to the backend directory:
+
+```bash
 cd backend
+```
 
-   4. Create a virtual environment:
+4. Create a virtual environment:
 
-    On macOS and Linux:
+-   On macOS and Linux:
 
+```bash
 python3 -m venv venv
+```
 
-    On Windows:
+-   On Windows:
 
+```bash
 python -m venv venv
+```
 
-   5. Activate the virtual environment:
+5. Activate the virtual environment:
 
-    On macOS and Linux:
+-   On macOS and Linux:
 
+```bash
 source venv/bin/activate
+```
 
-    On Windows:
+-   On Windows:
 
+```bash
 venv\Scripts\activate
+```
 
-   6. Install the dependencies:
+6. Install the dependencies:
 
-    On macOS and Linux:
+-   On macOS and Linux:
 
+```bash
 pip3 install -r requirements.txt
+```
 
-    On Windows:
+-   On Windows:
 
+```bash
 pip install -r requirements.txt
+```
 
-   7. Navigate to the frontend directory:
+7. Navigate to the frontend directory:
 
+```bash
 cd ../frontend
+```
 
-    Install the dependencies:
+8. Install the dependencies:
 
+```bash
 npm install
+```
 
-   8. Build the frontend:
+9. Build the frontend:
 
+```bash
 npm run build
+```
 
-   9. Navigate to the backend directory:
+10. Navigate to the backend directory:
 
+```bash
 cd ../backend
+```
 
-   10. Run the Flask app:
+11. Run the Flask app:
 
+```bash
 flask run
+```
 
-Open your browser and go to http://localhost:5000/ to view the app.
+12. Open your browser and go to `http://localhost:5000/` to view the app.
