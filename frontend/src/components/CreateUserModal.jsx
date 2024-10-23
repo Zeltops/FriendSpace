@@ -87,7 +87,7 @@ const CreateUserModal = ({ setUsers }) => {
 				<ModalOverlay />
 				<form onSubmit={handleCreateUser}>
 					<ModalContent>
-						<ModalHeader> My new BFF 😍 </ModalHeader>
+						<ModalHeader> New friend </ModalHeader>
 						<ModalCloseButton />
 
 						<ModalBody pb={6}>
