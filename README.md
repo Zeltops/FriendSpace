@@ -13,7 +13,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/burakorkmez/react-python-tutorial
+git clone https://github.com/Zeltops/FriendSpace
 ```
 
 2. Navigate to the project directory:
