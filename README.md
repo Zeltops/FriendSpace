@@ -19,7 +19,7 @@ git clone https://github.com/Zeltops/FriendSpace
 2. Navigate to the project directory:
 
 ```bash
-cd react-python-tutorial
+cd FriendSpace
 ```
 
 3. Navigate to the backend directory:
