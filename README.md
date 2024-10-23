@@ -2,7 +2,7 @@ To run the app locally
 
     1. Clone the repository:
 
-git clone https://github.com/burakorkmez/react-python-tutorial
+git clone
 
    2. Navigate to the project directory:
 
