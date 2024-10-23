@@ -1,8 +1,6 @@
 To run the app locally
 
-    1. Clone the repository:
-
-git clone https://github.com/Zeltops/FriendSpace
+   1. Clone the repository: git clone https://github.com/Zeltops/FriendSpace
 
    2. Navigate to the project directory:
 
