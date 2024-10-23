@@ -11,7 +11,7 @@
 -   📱 Responsive Design: The app is designed to adapt to various screen sizes, ensuring a consistent experience across devices.
 
 ### Descriptions
-FriendSpace is a client-side application where you can keep notes on your friends. The BackEnd is build using Flask to create an API, SQLAlchemy as an ORM and SQLite as the database. The FrontEnd is build using React with Chakra UI components.
+FriendSpace is a client-server application where you can keep notes on your friends. The BackEnd is build using Flask to create an API, SQLAlchemy as an ORM and SQLite as the database. The FrontEnd is build using React with Chakra UI components.
 
 ### Run the App Locally
 
