@@ -1,5 +1,7 @@
 # FriendSpace 🚀
 
+![Alt text](https://github.com/Zeltops/FriendSpace/blob/main/example.png)
+
 ### Table of Contents
 
 -   ⚙️ Tech Stack: Python, React, SQLite, SQLAlchemy, Flask, Chakra UI
